@@ -37,7 +37,7 @@ for i in range(30):
     logo(716.25,50,15,"light sky blue")
     a=300
     b=180
-    c=random.randint(6,15)
+    c=10
     for i in range (3):
         lod(a,b,c,"light sky blue","brown")
         a+=-80
